@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashesh-kumar-86a8a74/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Based_in-Melbourne,_AU-1F3864?style=for-the-badge" alt="Melbourne"/>
-  <img src="https://img.shields.io/badge/Domain-Insurance_&_Regulated-2E74B5?style=for-the-badge" alt="Domain"/>
+  <img src="https://img.shields.io/badge/Domain-IT_AI_&_Insurance_Regulated-2E74B5?style=for-the-badge" alt="Domain"/>
 </p>
 
 ---
