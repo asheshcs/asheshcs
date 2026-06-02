@@ -18,7 +18,7 @@
 <h1 align="center">Ashesh Kumar</h1>
 
 <p align="center">
-  <strong>Senior delivery professional &amp; Technology Product Owner — Data Platforms, GenAI &amp; Cloud Enablement</strong><br/>
+  <strong>Senior Business Analyst &amp; Product Owner — Data Platforms, GenAI &amp; Cloud Enablement</strong><br/>
   Turning complex AI &amp; data-platform capability into governed, business-ready outcomes.
 </p>
 
@@ -128,15 +128,6 @@ governance, and product decisions.
   <img src="https://img.shields.io/badge/CBAP-1F3864?style=flat-square"/>
   <img src="https://img.shields.io/badge/IIBA_AAC-1F3864?style=flat-square"/>
   <img src="https://img.shields.io/badge/Databricks_Data_Analyst_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asheshcs&show_icons=true&hide_border=true&title_color=1F3864&icon_color=2E74B5" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheshcs&layout=compact&hide_border=true&title_color=1F3864" alt="Top languages"/>
 </p>
 
 ---
