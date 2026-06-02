@@ -34,7 +34,7 @@
 
 I work at the intersection of enterprise data platforms and applied GenAI. By day I drive
 platform enablement on a GenAI Platform Team in an APRA-regulated environment — Databricks on
-AWS, Unity Catalog governance, foundation-model adoption, and the operating models that make
+AWS, Unity Catalog governance, Azure Identity management, foundation-model adoption, and the operating models that make
 those capabilities safe to consume at scale.
 
 Outside that role I build. This profile collects production-grade reference projects in the
