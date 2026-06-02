@@ -18,7 +18,7 @@
 <h1 align="center">Ashesh Kumar</h1>
 
 <p align="center">
-  <strong>Senior delivery professional &amp; Product Owner — Data Platforms, GenAI &amp; Cloud Enablement</strong><br/>
+  <strong>Senior Data & AI Platform professional &amp; Technical Product Owner — Data Platforms, GenAI, Agentic AI, Databricks, AWS, Azure &amp; AI Governance </strong><br/>
   Turning complex AI &amp; data-platform capability into governed, business-ready outcomes.
 </p>
 
